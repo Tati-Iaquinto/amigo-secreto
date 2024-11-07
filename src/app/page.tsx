@@ -73,9 +73,6 @@ export default function Home() {
         <CarouselPrevious className="bg-transparent"/>
         </Carousel>
       </section>
-      <footer className="text-center mt-12">
-        Obs: se algum item está mais caro do que deveria ou é porque estava em alguma promo e acabou OU é pq eu sou uma sacana mesmo.
-      </footer>
 
       </main>
     
